@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Flávio, e atualmente trabalho com <strong>Front-End</strong>.<br>
-  Atualmente estou me especializando em Javascript. Sou formado em Desenvolvimento de Sistema pelo CETEC - Senai
+  Estou me especializando em Javascript. Sou formado em Desenvolvimento de Sistema pelo CETEC - Senai
 </p>
 
 <p align="left">
