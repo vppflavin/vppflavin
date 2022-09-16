@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Flávio, e atualmente trabalho com <strong>Front-End</strong>.<br>
-  Estou me especializando em Javascript. Sou formado em Desenvolvimento de Sistema pelo SENAI.
+  Estou me especializando em Javascript/Angular. Sou formado em Desenvolvimento de Sistema pelo SENAI.
 </p>
 
 <p align="left">
