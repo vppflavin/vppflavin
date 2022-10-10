@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Flávio, e atualmente trabalho com <strong>Front-End</strong>.<br>
-  Estou me especializando em Javascript/Angular. Sou formado em Desenvolvimento de Sistema pelo SENAI.
+  Me chamo Flávio, sou formado em Desenvolvimento de Sistemas pelo <strong>SENAI - Vitória</strong>. r<br>
 </p>
 
 <p align="left">
